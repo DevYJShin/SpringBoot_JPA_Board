@@ -1,7 +1,5 @@
 # SpringBoot_JPA_Board
 
-# Final-Projec Name : HIGH FIVE 🙏🏻
-
 <br>
 
 ## ⏰ 프로젝트 기간
@@ -132,20 +130,7 @@
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4.svg?&style=for-the-badge&logo=Google%20Chrome&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 
-
-## 📌 Project Collaborate Tool
-
-- [Trello](https://asia-enterprise.taskworld.com/youngjoon-shin/#/project/2?show=/task/20/comments)
-- [Figma](https://www.figma.com/file/UUWs1MQavlacUoeqZcPtRt/Untitled?node-id=0%3A1)
-
-![Trello](https://img.shields.io/badge/Trello-0052CC.svg?&style=for-the-badge&logo=Trello&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=Figma&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white)
-![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B.svg?&style=for-the-badge&logo=Google%20Meet&logoColor=white)
-![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4.svg?&style=for-the-badge&logo=Google%20Drive&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853.svg?&style=for-the-badge&logo=Google%20Sheets&logoColor=white)
 
 
 # 🎸 사용 기술 및 언어
